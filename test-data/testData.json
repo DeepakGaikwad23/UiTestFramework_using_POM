@@ -1,0 +1,26 @@
+{
+  "expectedTitle": "StackDemo",
+  "vendorFilter": {
+    "vendor": "Apple",
+    "expectedProductCount": 9,
+    "visibleProduct": "iPhone 12",
+    "hiddenProduct": "Galaxy S20"
+  },
+  "product": {
+    "name": "iPhone 12"
+  },
+  "checkoutProduct": {
+    "name": "iPhone XR"
+  },
+  "shippingAddress": {
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "address": "123 Demo Street",
+    "state": "California",
+    "postalCode": "94016"
+  },
+  "validUser": {
+    "username": "demouser",
+    "password": "testingisfun99"
+  }
+}
